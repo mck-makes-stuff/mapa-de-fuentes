@@ -2,7 +2,7 @@
 
 Un mapa interactivo que muestra dónde se publican las fuentes de una bibliografía sobre humanidades digitales en español. Cada círculo es una ciudad; al hacer clic aparecen la cita y el enlace de cada fuente.
 
-**Sitio:** https://mck-makes-stuff.github.io/humanidades-digitales-mapa/
+**Sitio:** https://mck-makes-stuff.github.io/mapa-de-fuentes/
 
 ## Cómo funciona
 
